@@ -78,5 +78,5 @@ Authorization: Bearer {token}
 
 Kamu bisa mengunduh dan mengimpor Postman Collection dari file berikut:
 
-👉 [postman.json](./postman.json)
+👉 [api-collection.json](./api-collection.json)
 
