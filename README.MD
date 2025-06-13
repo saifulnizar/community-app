@@ -6,9 +6,9 @@ A modern community-based web app built with Laravel 12, Livewire 3, Filament 3, 
 
 ## 🚀 Tech Stack
 
-- **Laravel 12 – Main framework (PHP 8.2+)
-- **Livewire 3 – Interactive frontend
-- **Filament 3.3 – Admin panel and content management
+- **Laravel 12** – Main framework (PHP 8.2+)
+- **Livewire 3** – Interactive frontend
+- **Filament 3.3** – Admin panel and content management
 - **Spatie Laravel-Permission** – Role & permission management
 - **MySQL** – Relational database
 - **UUIDs** – For model IDs
