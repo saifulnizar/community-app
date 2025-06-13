@@ -44,6 +44,15 @@ php artisan serve
 
 ###
 👩‍💼 Admin Panel (Filament)
+👩‍💼 User Panel Simple Livewire
+Login
+```
+admin@comuity.com
+password
+
+jhon@comuity.com
+password
+```
 
 ### API Authentication
 
