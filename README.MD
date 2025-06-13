@@ -6,12 +6,10 @@ A modern community-based web app built with Laravel 12, Livewire 3, Filament 3, 
 
 ## 🚀 Tech Stack
 
-- **Laravel 12** – Main framework (PHP 8.2+)
-- **Livewire 3** – Interactive frontend
-- **Filament 3.3** – Admin panel and content management
+- **Laravel 12 – Main framework (PHP 8.2+)
+- **Livewire 3 – Interactive frontend
+- **Filament 3.3 – Admin panel and content management
 - **Spatie Laravel-Permission** – Role & permission management
-- **Soulbscription** – Optional subscription handling
-- **TailwindCSS** – Styling
 - **MySQL** – Relational database
 - **UUIDs** – For model IDs
 - **RESTful API** – For mobile or external use
@@ -32,7 +30,7 @@ A modern community-based web app built with Laravel 12, Livewire 3, Filament 3, 
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-repo/community-app.git
+git clone https://github.com/saifulnizar/community-app.git
 cd community-app
 composer install
 npm install && npm run build
