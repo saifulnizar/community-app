@@ -24,7 +24,7 @@ class CommentCreate extends Component
             'post_id' => $this->postId,
             'user_id' => Auth::id(),
             'content' => $this->content,
-            'is_approved' => false,
+            'is_approved' => true,
         ]);
 
         $this->reset('content');

@@ -23,6 +23,7 @@ class CommentList extends Component
     {
         $this->comments = Comment::with('user')
             ->where('post_id', $this->postId)
+            ->where('is_approved', true)
             ->orderBy('created_at', 'asc')
             ->get();
     }

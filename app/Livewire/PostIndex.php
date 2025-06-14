@@ -58,6 +58,7 @@ class PostIndex extends Component
     public function loadPosts()
     {
         $query = Post::with(['user', 'tags'])
+            ->where('is_approved', true)
             ->latest();
 
         

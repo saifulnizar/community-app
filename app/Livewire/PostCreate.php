@@ -88,7 +88,7 @@ class PostCreate extends Component
             'user_id' => Auth::id(),
             'title' => $this->title,
             'content' => $this->content,
-            'is_approved' => false, // bisa diubah jadi true jika moderasi tidak digunakan
+            'is_approved' => true, // bisa diubah jadi true jika moderasi tidak digunakan
         ]);
 
 
